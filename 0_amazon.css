@@ -1,0 +1,219 @@
+.container{
+    height: 1975px;
+    width: 1500px;
+    background-color: rgb(176, 243, 243);
+    display: flex;
+    flex-flow: row wrap;
+}
+.box1{
+    height: 60px;
+    width: 170px;
+    background-color: rgb(53, 45, 45);
+}
+.box2{
+    height: 60px;
+    width: 170px;
+    background-color: rgb(53, 45, 45);
+    color: white;
+}
+.p1{
+    display: inline;
+}
+.box3{
+    height: 36px;
+    width: 795px;
+    background-color: rgb(53, 45, 45);
+    padding: 12px 0px 12px 12px;
+}
+input{
+    height: 35px;
+    width: 710px;
+}
+.box4{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(53, 45, 45);
+    color: white;
+}
+.box5{
+    height: 60px;
+    width: 111px;
+    background-color: rgb(53, 45, 45);
+    color: white;
+}
+.box6{
+    height: 60px;
+    width: 110px;
+    background-color: rgb(53, 45, 45);
+    color: white;
+}
+.box7{
+    height: 60px;
+    width: 72px;
+    background-color: rgb(53, 45, 45);
+    color: white;
+}
+.box8{
+    height: 40px;
+    width: 1500px;
+    background-color: rgb(77, 70, 70);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+li a{
+    text-decoration: none;
+    display: block;
+    color: white;
+    padding: 10px;
+}
+a:hover{
+    background-color: green;
+}
+.box9{
+    height: 500px;
+    width: 1500px;
+}
+.box301{
+    background-color: white;
+    color: black;
+    bottom: 150px;
+    position: relative;
+    z-index: 0;
+    height: 25px;
+    width:1300px;
+    margin-left:110px;
+    text-align: center;
+    margin-top:50px ;
+}
+.box101{
+    height: 50px;
+    width: 360px;
+}
+.box102{
+    height: 360px;
+    width: 360px;
+}
+.box103{
+    height: 90px;
+    width: 360px;
+}
+.box10{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+.box11{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+.box12{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+.box13{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+}
+.box14{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-left: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.box15{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-left: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.box16{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-left: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.box17{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.box18{
+    height: 40px;
+    width: 1500px;
+    background-color: rgb(128, 108, 108);
+}
+.box19{
+    height: 300px;
+    width: 1500px;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: rgb(77, 70, 70);
+}
+.box201{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 140px;
+    color: white;
+}
+.box202{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 140px;
+    color: white;
+}
+.box203{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 140px;
+    color: white;
+}
+.box204{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 140px;
+    margin-right: 140px;
+    color: white;
+}
+.box205{
+    height: 30px;
+    width: 1500px;
+    margin-bottom: 0;
+    margin-top: 1px;
+}
+.box20{
+    height: 80px;
+    width: 1500px;
+    background-color: rgb(53, 45, 45);
+}
